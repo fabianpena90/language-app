@@ -1,0 +1,6 @@
+{
+  "app.title": "Title",
+  "language": "Language",
+  "welcome.message": "Welcome",
+  "days.since.release": "it's been {{numberOfDays}} days since {{name}} is looking to improve localization"
+}

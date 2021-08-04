@@ -1,0 +1,6 @@
+{
+  "app.title": "Titulo",
+  "language": "Lenguaje",
+  "welcome.message": "Bienvenido",
+  "days.since.release": "Hace {{numberOfDays}} dias que {{name}} busca mejorar la localización"
+}
